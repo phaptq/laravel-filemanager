@@ -1,10 +1,10 @@
 <?php
 
-namespace UniSharp\LaravelFilemanager\Controllers;
+namespace PhapTQ\LaravelFilemanager\Controllers;
 
 use Illuminate\Support\Str;
-use UniSharp\LaravelFilemanager\Events\FolderIsCreating;
-use UniSharp\LaravelFilemanager\Events\FolderWasCreated;
+use PhapTQ\LaravelFilemanager\Events\FolderIsCreating;
+use PhapTQ\LaravelFilemanager\Events\FolderWasCreated;
 
 class FolderController extends LfmController
 {

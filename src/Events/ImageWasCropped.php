@@ -1,6 +1,6 @@
 <?php
 
-namespace UniSharp\LaravelFilemanager\Events;
+namespace PhapTQ\LaravelFilemanager\Events;
 
 class ImageWasCropped
 {

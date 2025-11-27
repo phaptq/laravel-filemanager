@@ -1,6 +1,6 @@
 <?php
 
-namespace UniSharp\LaravelFilemanager\Exceptions;
+namespace PhapTQ\LaravelFilemanager\Exceptions;
 
 class InvalidExtensionException extends \Exception
 {

@@ -1,17 +1,17 @@
 <?php
 
-namespace UniSharp\LaravelFilemanager;
+namespace PhapTQ\LaravelFilemanager;
 
 use Symfony\Component\HttpFoundation\File\UploadedFile;
-use UniSharp\LaravelFilemanager\Exceptions\DuplicateFileNameException;
-use UniSharp\LaravelFilemanager\Exceptions\EmptyFileException;
-use UniSharp\LaravelFilemanager\Exceptions\ExcutableFileException;
-use UniSharp\LaravelFilemanager\Exceptions\FileFailedToUploadException;
-use UniSharp\LaravelFilemanager\Exceptions\FileSizeExceedConfigurationMaximumException;
-use UniSharp\LaravelFilemanager\Exceptions\FileSizeExceedIniMaximumException;
-use UniSharp\LaravelFilemanager\Exceptions\InvalidExtensionException;
-use UniSharp\LaravelFilemanager\Exceptions\InvalidMimeTypeException;
-use UniSharp\LaravelFilemanager\LfmPath;
+use PhapTQ\LaravelFilemanager\Exceptions\DuplicateFileNameException;
+use PhapTQ\LaravelFilemanager\Exceptions\EmptyFileException;
+use PhapTQ\LaravelFilemanager\Exceptions\ExcutableFileException;
+use PhapTQ\LaravelFilemanager\Exceptions\FileFailedToUploadException;
+use PhapTQ\LaravelFilemanager\Exceptions\FileSizeExceedConfigurationMaximumException;
+use PhapTQ\LaravelFilemanager\Exceptions\FileSizeExceedIniMaximumException;
+use PhapTQ\LaravelFilemanager\Exceptions\InvalidExtensionException;
+use PhapTQ\LaravelFilemanager\Exceptions\InvalidMimeTypeException;
+use PhapTQ\LaravelFilemanager\LfmPath;
 
 class LfmUploadValidator
 {

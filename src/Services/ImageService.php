@@ -1,6 +1,6 @@
 <?php
 
-namespace UniSharp\LaravelFilemanager\Services;
+namespace PhapTQ\LaravelFilemanager\Services;
 
 use Intervention\Image\Interfaces\ImageManagerInterface;
 use Intervention\Image\Image;
