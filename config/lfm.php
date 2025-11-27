@@ -4,8 +4,8 @@
 |--------------------------------------------------------------------------
 | Documentation for this config :
 |--------------------------------------------------------------------------
-| online  => http://unisharp.github.io/laravel-filemanager/config
-| offline => vendor/unisharp/laravel-filemanager/docs/config.md
+| online  => http://phaptq.github.io/laravel-filemanager/config
+| offline => vendor/phaptq/laravel-filemanager/docs/config.md
  */
 
 return [

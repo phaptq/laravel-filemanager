@@ -10,7 +10,7 @@
 1. Run these lines
 
     ```bash
-    composer require unisharp/laravel-filemanager
+    composer require phaptq/laravel-filemanager
     php artisan vendor:publish --tag=lfm_config
     php artisan vendor:publish --tag=lfm_public
     php artisan storage:link
@@ -22,7 +22,7 @@
 1. Install package
 
     ```bash
-    composer require unisharp/laravel-filemanager
+    composer require phaptq/laravel-filemanager
     ```
 
 1. (optional) Install required dependency with `v3.*` of `intervention/image`:
@@ -80,10 +80,10 @@
 1. login and visit `/laravel-filemanager/demo`
 
 ## Installing alpha version
- * Run `composer require unisharp/laravel-filemanager:dev-master` to get the latest developer version.
+ * Run `composer require phaptq/laravel-filemanager:dev-master` to get the latest developer version.
 
 ## What's next
 
-1. Check the [integration document](http://unisharp.github.io/laravel-filemanager/integration) to see how to apply this package.
+1. Check the [integration document](http://phaptq.github.io/laravel-filemanager/integration) to see how to apply this package.
 
-1. Check the [config document](http://unisharp.github.io/laravel-filemanager/config) to discover the flexibility of this package.
+1. Check the [config document](http://phaptq.github.io/laravel-filemanager/config) to discover the flexibility of this package.

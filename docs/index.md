@@ -1,8 +1,8 @@
-[![Latest Stable Version](https://poser.pugx.org/unisharp/laravel-filemanager/v/stable)](https://packagist.org/packages/unisharp/laravel-filemanager)
-[![Total Downloads](https://poser.pugx.org/unisharp/laravel-filemanager/downloads)](https://packagist.org/packages/unisharp/laravel-filemanager)
-[![License](https://poser.pugx.org/unisharp/laravel-filemanager/license)](https://packagist.org/packages/unisharp/laravel-filemanager)
+[![Latest Stable Version](https://poser.pugx.org/phaptq/laravel-filemanager/v/stable)](https://packagist.org/packages/phaptq/laravel-filemanager)
+[![Total Downloads](https://poser.pugx.org/phaptq/laravel-filemanager/downloads)](https://packagist.org/packages/phaptq/laravel-filemanager)
+[![License](https://poser.pugx.org/phaptq/laravel-filemanager/license)](https://packagist.org/packages/phaptq/laravel-filemanager)
 
-This is the document of v2 version, v1 document can be found here: [https://github.com/UniSharp/laravel-filemanager/tree/v1/docs](https://github.com/UniSharp/laravel-filemanager/tree/v1/docs)
+This is the document of v2 version, v1 document can be found here: [https://github.com/phaptq/laravel-filemanager/tree/v1/docs](https://github.com/phaptq/laravel-filemanager/tree/v1/docs)
 
 ## Features
  * File upload and management
@@ -27,9 +27,9 @@ PRs are welcome!
 ## Screenshots
 > Standalone button :
 
-![Standalone button demo](https://unisharp.github.io/laravel-filemanager/images/lfm01.png)
+![Standalone button demo](https://phaptq.github.io/laravel-filemanager/images/lfm01.png)
 
 > Responsive design :
 
-![RWD demo](https://unisharp.github.io/laravel-filemanager/images/screenshots-v2.png)
+![RWD demo](https://phaptq.github.io/laravel-filemanager/images/screenshots-v2.png)
   

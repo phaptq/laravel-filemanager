@@ -291,7 +291,7 @@ class Lfm
     public static function routes()
     {
         $middleware = [ CreateDefaultFolder::class, MultiUser::class ];
-        $as = 'unisharp.lfm.';
+        $as = 'phaptq.lfm.';
         $namespace = '\\PhapTQ\\LaravelFilemanager\\Controllers\\';
 
         Route::group(compact('middleware', 'as', 'namespace'), function () {
