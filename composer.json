@@ -1,5 +1,5 @@
 {
-  "name": "unisharp/laravel-filemanager",
+  "name": "phaptq/laravel-filemanager",
   "description": "A file upload/editor intended for use with Laravel 5 to 10 and CKEditor / TinyMCE",
   "license": "MIT",
   "keywords": [
@@ -24,6 +24,7 @@
   ],
   "require": {
     "php": ">=8.1",
+    "laravel/framework": "^10.0",
     "ext-exif": "*",
     "ext-fileinfo": "*",
     "intervention/image": ">=3.11.3",
